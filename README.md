@@ -42,7 +42,7 @@
  **TABLE**
 |Name|Branch|College|
 |-----|-----|-----|
-|MYTHILI|CSE|VR|B.TECH|
+|MYTHILI|CSE|VRSEC|
 
 ~~~
 import java.*
